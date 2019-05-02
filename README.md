@@ -11,3 +11,17 @@
     step2:click the open and copy the addressbar to script 
   
     step3:this link is past the enviroment setting in the path
+   
+ 3)MySQL shutdown unexpectedly.
+
+    6:17:26 PM  [mysql] 	Error: MySQL shutdown unexpectedly.
+    6:17:26 PM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+    6:17:26 PM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+    6:17:26 PM  [mysql] 	Press the Logs button to view error logs and check
+    6:17:26 PM  [mysql] 	the Windows Event Viewer for more clues
+    6:17:26 PM  [mysql] 	If you need more help, copy and post this
+    6:17:26 PM  [mysql] 	entire log window on the forums
+
+    Step1: Open XAMPP and click the services
+    Step2: Open the services tab and find our MySQL80 and open it
+    Step3: open new tab press the stop butoom and restart XAMPP 
