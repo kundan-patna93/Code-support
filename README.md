@@ -25,3 +25,17 @@
     Step1: Open XAMPP and click the services
     Step2: Open the services tab and find our MySQL80 and open it
     Step3: open new tab press the stop butoom and restart XAMPP 
+
+4)How to Install Django in Virtual Environment.
+
+    following step:
+    step1:Open cmd
+        
+    setp2:Install Virtual Enviroment Wrapper
+        pip install virtualenvwrapper-win
+        
+    step3:Create Virtual Environment(VE)
+        mkvirtualenv <foldername>
+        
+    step4:Install django
+        pip install django==<version name>
