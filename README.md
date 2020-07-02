@@ -30,6 +30,7 @@
 
     following step:
     step1:Open cmd
+        win+r-->cmd
         
     setp2:Install Virtual Enviroment Wrapper
         pip install virtualenvwrapper-win
