@@ -40,3 +40,13 @@
         
     step4:Install django
         pip install django==<version name>
+
+5)TypeError: unsupported operand type(s) for /: 'str' and 'str'
+
+    DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.sqlite3',
+        #'NAME': BASE_DIR / 'db.sqlite3',               comment this line of code or remove
+        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),   add this line of code
+    }
+}
