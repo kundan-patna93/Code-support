@@ -50,3 +50,15 @@
         'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),   add this line of code
     }
 }
+
+
+
+6)TemplateSyntaxError at /
+  'staticfiles' is not a registered tag library. Must be one of:
+  
+  
+    if you write this one :
+    {% load staticfiles %} #remove this
+
+    Then remove upper code and write below code 
+    {% load staticf %} #use this one
