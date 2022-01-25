@@ -69,3 +69,28 @@
 
     Indent- ctrl+]
     Deindent- ctrl+[
+    
+    
+8)Auto complete html basic structure
+
+    1. Sublime text - html + tab 
+    2. vs code      - ! + tab(if not work then followed below step
+        step-1: open vs code
+        step-2: enter ctrl+ship+p ->type User setting
+        step-3: type emmet ->scroll down
+        step-4: enable ->show Suggestions As Snippets
+                enable ->Trigger Expansion On Tab
+                
+       step-5: Restart vs code
+       https://www.youtube.com/watch?v=k8IyBpaDEr8
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
