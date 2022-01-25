@@ -62,3 +62,9 @@
 
     Then remove upper code and write below code 
     {% load staticf %} #use this one
+    
+7)How to Indent and Dedent Your Python Code
+
+
+    Indent- ctrl+]
+    Deindent- ctrl+[
