@@ -87,10 +87,14 @@
     
    9)I'm not able to install ChatterBot library by using command "pip install chatterbot". Can anyone help me with this issue?
    
+        =>
         1. pip install chatterbot==1.0.0
         2. pip install chatterBot-corpus
-    In case if the Above don't work... Use pip3 instead of pip.
-    
+        In case if the Above don't work... Use pip3 instead of pip.
+        
+        =>AttributeError: module 'time' has no attribute 'clock'
+          import time
+          time.clock = time.time
     
     
     
