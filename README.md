@@ -95,6 +95,11 @@
         =>AttributeError: module 'time' has no attribute 'clock'
           import time
           time.clock = time.time
+          
+       =>No value for search_text was available on the provided input
+         import logging
+         logger = logging.getLogger()
+         logger.setLevel(logging.CRITICAL)
     
     
     
