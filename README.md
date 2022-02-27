@@ -100,6 +100,13 @@
          import logging
          logger = logging.getLogger()
          logger.setLevel(logging.CRITICAL)
+         
+   10)Json validation online site.
+   
+        https://codebeautify.org/jsonvalidator
+   
+   
+        
     
     
     
