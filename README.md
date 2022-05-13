@@ -104,6 +104,11 @@
    10)Json validation online site.
    
         https://codebeautify.org/jsonvalidator
+        
+   11)Odoo_15 Problem( Error: EPERM: operation not permitted, mkdir 'c:\Program Files\Odoo-15\server\odoo\addons\kundan' )
+   
+        The folder > Properties > Security Tab
+        Edit > select the user and give full control
    
    
         
