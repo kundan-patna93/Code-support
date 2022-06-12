@@ -109,6 +109,33 @@
    
         The folder > Properties > Security Tab
         Edit > select the user and give full control
+        
+  12)Django html and css link code:
+        
+        HTML:
+        import os
+        TEMPLATE_DIR =os.path.join(BASE_DIR,'templates') 
+        
+        templates:
+        DIR=[]
+        os.path.join(BASE_DIR,'templates'
+        
+        
+        
+        CSS:
+        1:html page:
+        <!DOCTYPE html>
+        {% load static %}
+        
+        2:link css:
+        <link rel="stylesheet" href="{% static "css/login.css" %} " />
+        <title>login Page</title>
+        
+        3:setting code:
+        STATIC_DIR = [os.path.join(BASE_DIR,'static')]
+
+        
+        
    
    
         
