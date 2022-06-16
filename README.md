@@ -68,7 +68,7 @@
 
 
     Indent- ctrl+]
-    Deindent- ctrl+[
+    Deindent- ctrl+[ 
     
     
 8)Auto complete html basic structure
