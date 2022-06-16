@@ -1,4 +1,4 @@
-# Technical-suppoert
+# Code-support
 1)windows 7 service pack 1 and all applicable updates are required to install python 3.7.2
 
     Go this like download and install
