@@ -112,7 +112,12 @@
         
   12)Django html and css link code:
         
+        Note:
+        templates
+        static
+        
         HTML:
+        setting.py
         import os
         TEMPLATE_DIR =os.path.join(BASE_DIR,'templates') 
         
@@ -133,6 +138,11 @@
         
         3:setting code:
         STATIC_DIR = [os.path.join(BASE_DIR,'static')]
+        
+ 
+          
+         
+         
 
         
         
