@@ -139,6 +139,10 @@
         3:setting code:
         STATIC_DIR = [os.path.join(BASE_DIR,'static')]
         
+   14)dict key rename:
+   
+       dic[new_key]=dic.pop(old_key)
+        
  
           
          
