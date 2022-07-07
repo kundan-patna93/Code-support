@@ -142,6 +142,20 @@
    14)dict key rename:
    
        dic[new_key]=dic.pop(old_key)
+       
+   15)fuction called another name:
+   
+       def show_record(name):
+            print(name)
+       
+       show_record(name="sunil")
+       display_record=show_record
+       display_record(name="krishana")
+       
+   16)Mysql connection test:
+   
+       if conn.is_connected():
+            print("successfull connected...!")
         
  
           
