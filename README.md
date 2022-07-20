@@ -156,6 +156,12 @@
    
        if conn.is_connected():
             print("successfull connected...!")
+            
+            
+   17)HTML Skeleton in subliMe text Editor:
+   
+   
+       html + TAB press
         
  
           
